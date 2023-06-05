@@ -41,7 +41,7 @@ demonstrator of the full-stack application.
 
 - [DropMate Backend Repository](https://github.com/DropMate-Corp/DropMate)
 - [DropMate Frontend Repository](https://github.com/DropMate-Corp/DropMate-UI)
-- [DropMate API Documentation](#)
+- [DropMate API Documentation](https://documenter.getpostman.com/view/27813192/2s93sXcaR8)
 - [Floral-Fiesta Backend Repository](https://github.com/DropMate-Corp/Floral-Fiesta)
 - [Floral-Fiesta Frontend Repository](https://github.com/DropMate-Corp/Floral-Fiesta-UI)
 - [Floral-Fiesta API Documentation](https://documenter.getpostman.com/view/24047488/2s93sW9w4U)
