@@ -1,9 +1,15 @@
 # MainHub
 
 This project was developed within the scope of the course 
-Software Testing and Quality Control to put into practice 
-the Quality Assurance, Test-Driven Development and CI/CD 
+**Software Testing** and **Quality Control** to put into practice 
+the **Quality Assurance**, **Test-Driven Development** and **CI/CD** 
 strategies learned in the practical classes.
+
+This repository is the main hub for the project were the 
+final report documentation can be found inside **/docs** 
+folder. All the code is divided within different 
+repositories that will be briefly disbribed in the 
+**Project Structure** section.
 
 ## Project Abstract
 
@@ -30,6 +36,20 @@ and associated collection points operators.
 In addition, we developed an e-Store web instance of an 
 online flower shop called Floral Fiesta as a proof-of-concept 
 demonstrator of the full-stack application.
+
+## How to Run
+
+To run Dropmate and FloralFiesta applications locally:
+
+- Setting up and running backend:
+    1. Clone [Dropmate](https://github.com/DropMate-Corp/DropMate) and [Floral-Fiesta](https://github.com/DropMate-Corp/Floral-Fiesta) repositories
+    2. Install Docker Compose
+    3. Inside each repository run the command > ```docker compose up```
+
+- Setting up and running frontend:
+    1. Clone [Dropmate-UI](https://github.com/DropMate-Corp/DropMate-UI) and and [Floral-Fiesta-UI](https://github.com/DropMate-Corp/Floral-Fiesta-UI) repositories
+    2. Install npm
+    3. Inside each repository run the command > ```npm start```
 
 ## Project Team
 
