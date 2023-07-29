@@ -5,10 +5,10 @@ This project was developed within the scope of the course
 the **Quality Assurance**, **Test-Driven Development** and **CI/CD** 
 strategies learned in the practical classes.
 
-This repository is the main hub for the project were the 
-final report documentation can be found inside **/docs** 
-folder. All the code is divided within different 
-repositories that will be briefly disbribed in the 
+This repository serves as main hub for the project, where the 
+final report and documentation can be found inside the **/docs** 
+folder. All the code is distributed across different 
+repositories, which will be briefly disbribed in the 
 [Project Structure](#Project-Structure) section.
 
 ## Project Abstract
