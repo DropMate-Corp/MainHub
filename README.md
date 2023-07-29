@@ -1,4 +1,4 @@
-# MainHub
+# DropMate Main Hub
 
 This project was developed within the scope of the course 
 Software Testing and Quality Control to put into practice 
@@ -33,18 +33,22 @@ demonstrator of the full-stack application.
 
 ## Project Team
 
-- Daniel Carvalho, 77036 (Team Coordinator, Product Owner & Developer)
-- Artur Correira, 102477 (QA Engineer & Developer)
-- André Butuc, 103530 (DevOps master & Developer)
+- [André Butuc](https://github.com/abutuc) (andrebutuc@ua.pt) (DevOps master & Developer)
+- [Artur Correia](https://github.com/afarturc) (art.afo@ua.pt) (QA Engineer & Developer)
+- [Daniel Carvalho](https://github.com/danielfcarvalho) (dl.carvalho@ua.pt) (Team Coordinator, Product Owner & Developer)
 
-## Project Bookmarks
+## Project Structure
 
-- [DropMate Backend Repository](https://github.com/DropMate-Corp/DropMate)
-- [DropMate Frontend Repository](https://github.com/DropMate-Corp/DropMate-UI)
+| Repository                                                                         | Description                                                            |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [DropMate Backend Repository](https://github.com/DropMate-Corp/DropMate)           | Holds the code and CI/CD workflows for the DropMate platform backend   |
+| [DropMate Frontend Repository](https://github.com/DropMate-Corp/DropMate-UI)       | Contains the code for the DropMate platform UI                         |
+| [Floral-Fiesta Backend Repository](https://github.com/DropMate-Corp/Floral-Fiesta) | Code and CI/CD workflows for the Floral Fiesta, a simulated web store partnered up with the DropMate pick-up point service |
+| [Floral-Fiesta Frontend Repository](https://github.com/DropMate-Corp/Floral-Fiesta-UI)| Contains the code for the Floral Fiesta platform UI                 |
+
+## Other Important Links
+
 - [DropMate API Documentation](https://documenter.getpostman.com/view/27813192/2s93sXcaR8)
-- [Floral-Fiesta Backend Repository](https://github.com/DropMate-Corp/Floral-Fiesta)
-- [Floral-Fiesta Frontend Repository](https://github.com/DropMate-Corp/Floral-Fiesta-UI)
-- [Floral-Fiesta API Documentation](https://documenter.getpostman.com/view/24047488/2s93sW9w4U)
 - [Project Backlog](https://andrebutuc.atlassian.net/jira/software/projects/DM/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiZmVmOTRiZDU4MWQ2NGQxMzk0NTE0ZGM5ZGZhMmE4ZDMiLCJwIjoiaiJ9)
 - [Project Cloud Drive Workspace](https://uapt33090-my.sharepoint.com/:f:/g/personal/andrebutuc_ua_pt/Ei61Ll3_q8JFicrnFMo1yyABpXKcWBbOF21gDH7DTVC9-A?e=EHLWqc)
 - [SonarCloud Dashboard](https://sonarcloud.io/organizations/dropmate-corp/projects)
