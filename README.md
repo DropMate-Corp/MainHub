@@ -9,7 +9,7 @@ This repository is the main hub for the project were the
 final report documentation can be found inside **/docs** 
 folder. All the code is divided within different 
 repositories that will be briefly disbribed in the 
-**Project Structure** section.
+[Project Structure](#Project-Structure) section.
 
 ## Project Abstract
 
